@@ -1,3 +1,5 @@
+https://mysku.ru/blog/diy/74121.html
+
 Wireless Water Leak sensor based on nRF52832. 
 
 Standart version running on cr2477 battery (900mA).
